@@ -1,0 +1,1 @@
+mvn clean package && cp target/first.war "C:\xampp\tomcat\webapps"

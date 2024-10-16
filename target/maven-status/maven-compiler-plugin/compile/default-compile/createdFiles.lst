@@ -1,0 +1,6 @@
+com\web\HibernateUtil.class
+com\web\Login.class
+com\web\Register.class
+com\web\Logout.class
+com\web\User.class
+com\web\DB.class
